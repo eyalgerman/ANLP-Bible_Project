@@ -1,5 +1,5 @@
 # ANLP - Bible Project
-Final Probect in Course: Advanced Topics in Natural Language Processing
+Final Project in Course: Advanced Topics in Natural Language Processing
 
 by:
 * Eyal German
